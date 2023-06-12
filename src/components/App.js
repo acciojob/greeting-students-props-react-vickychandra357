@@ -7,7 +7,7 @@ const App = () => {
 
   return (
     <div>
-      <h1>Welcome Page</h1>
+      {/* <h1>Welcome Page</h1> */}
       <Welcome name={studentName} />
     </div>
   );
